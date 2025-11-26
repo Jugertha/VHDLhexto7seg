@@ -1,0 +1,10 @@
+v 4
+file / "/home/jugertha/VHDLhextoseg/VHDLhexto7seg/testbench.vhd" "0d3f3f183bc9d39e6171ebcc49c50ea09c204eb4" "20251123133527.439":
+  entity testbench at 1( 0) + 0 on 29;
+  architecture tb of testbench at 8( 103) + 0 on 30;
+file / "/home/jugertha/VHDLhextoseg/VHDLhexto7seg/tb.vhd" "8d8f0439fb4979f61d37836595df4bd2e941f2c2" "20251123131248.870":
+  entity tb at 1( 0) + 0 on 17;
+  architecture testbench of tb at 8( 92) + 0 on 18;
+file / "/home/jugertha/VHDLhextoseg/VHDLhexto7seg/proj.vhdl" "8f7f44fb0a622da1d3d1a2d40bb61b358f11a3db" "20251123133513.306":
+  entity proj at 1( 0) + 0 on 27;
+  architecture arch of proj at 9( 185) + 1 on 28;
